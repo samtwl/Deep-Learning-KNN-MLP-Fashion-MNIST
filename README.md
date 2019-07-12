@@ -1,5 +1,5 @@
 # Deep-Learning-KNN-MLP-Fashion-MNIST
-This repository contains the ipnyb for image classification on the Fashion-MNIST dataset based on KNN and MLP.
+This repository contains the ipynb for image classification on the Fashion-MNIST dataset based on KNN and MLP.
 
 ## Objective 1
 ### 1.0 Discussion on Parameter Settings for K-NN
